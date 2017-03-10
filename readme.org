@@ -1,0 +1,6 @@
+* Google Chrome project genetator
+  [https://github.com/yeoman/generator-chrome-extension]
+
+* Libraries
+** Bootstrap
+  [https://github.com/Ehesp/Chrome-Extension-Twitter-Bootstrap-3-Template]
